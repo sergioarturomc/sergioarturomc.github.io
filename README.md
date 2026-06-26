@@ -3,6 +3,7 @@
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/sergioamarinc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<a>
 
 [![Email](https://img.shields.io/badge/Email-sergio.a139902%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.a139902@gmail.com)
 
