@@ -9,7 +9,9 @@
 
 ###
 
-<h3 data-importer="text" align="center">Hola👋. Bienvenido a  mi portafolio</h3>
+<h3 data-importer="text" align="center">Mi portafolio</h3>
+
+<h3 data-importer="text" align="center">Sergio Arturo Marin Contreras</h3>
 
 ###
 
