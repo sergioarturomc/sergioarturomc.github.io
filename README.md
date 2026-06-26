@@ -9,7 +9,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Hola👋Soy Sergio. Bienvenido a  mi portafolio</h3>
+<h3 data-importer="text" align="center">Hola👋. Bienvenido a  mi portafolio</h3>
 
 ###
 
