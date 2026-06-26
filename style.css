@@ -11,3 +11,19 @@ body{margin:0;font-family:Arial,sans-serif;background:#0d1117;color:#e6edf3}
 .container{max-width:1000px;margin:auto;padding:20px}
 .card{background:#161b22;padding:20px;border-radius:10px;margin:20px 0}
 img{max-width:100%;border-radius:8px}a{color:#58a6ff}footer{text-align:center;padding:20px}
+
+.titulo{
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.nombre{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
