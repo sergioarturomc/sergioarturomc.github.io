@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="assets/img/foto_perfil.png" alt="Sergio Arturo Marín Contreras" width="180" style="border-radius:50%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 </p>
 
-<h1 align="center">👋 Bienvenido/a a mi portafolio</h1>
+<table align="center">
+  <tr>
+    <td width="180">
+      <img src="assets/img/foto_perfil.png" alt="Sergio Arturo Marín Contreras" width="160" style="border-radius:50%;"/>
+    </td>
+    <td>
+      <h1>Sergio Arturo Marín Contreras</h1>
+      <strong>QA ENGINEER JR · QA MANUAL TESTER · QA API TESTER</strong><br/><br/>
+      <a href="mailto:sergiomcqa@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-sergiomcqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/sergioamarinc/">
+        <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://github.com/sergioarturomc">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <strong>QA ENGINEER JR · QA MANUAL TESTER · QA API TESTER</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:sergiomcqa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sergiomcqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sergioamarinc/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sergioarturomc">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer" width="100%"/>
 </p>
 
 ---
