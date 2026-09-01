@@ -1,109 +1,158 @@
-![Banner QA Engineer](./Banner%20linkdin.png)
+<p align="center">
+  <img src="assets/img/foto_perfil.png" alt="Sergio Arturo Marín Contreras" width="180" style="border-radius:50%;"/>
+</p>
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/sergioamarinc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-<a>
+<h1 align="center">👋 Bienvenido/a a mi portafolio</h1>
 
-[![Email](https://img.shields.io/badge/Email-sergio.a139902%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.a139902@gmail.com)
+<p align="center">
+  <strong>QA ENGINEER JR · QA MANUAL TESTER · QA API TESTER</strong>
+</p>
 
-###
+<p align="center">
+  <a href="mailto:sergiomcqa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sergiomcqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergioamarinc/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sergioarturomc">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<h3 data-importer="text" align="center">Mi portafolio</h3>
+---
 
-<h3 data-importer="text" align="center">Sergio Arturo Marin Contreras</h3>
+## 📋 Índice
 
-###
+1. [🚀 Sobre mí](#-sobre-mí)  
+2. [🛠️ Tech Stack](#️-tech-stack)  
+3. [📂 Proyectos Destacados](#-proyectos-destacados)  
+4. [📄 CV Profesional](#-cv-profesional)  
+5. [📬 ¿Hablemos?](#-hablemos)
 
- Hoy en día cuento con experiencia práctica en **JIRA** ,**POSTMAN** , **FIGMA** , creando casos de prueba y ejecutándolos, reportando bugs claros y asegurándome de que las pruebas de regresión sean exitosas.
+---
 
-##
+## 🚀 Sobre mí
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+Soy **QA Engineer Jr.**, con experiencia práctica en diseño y ejecución de casos de prueba, pruebas funcionales y pruebas de API (Postman, JSON, HTTP/HTTPS). Actualmente estoy desarrollando mis habilidades de automatización con **Selenium y Pytest** bajo el patrón **Page Object Model (POM)**, con el objetivo de especializarme como QA Automation Engineer.
 
-###
+Me enfoco en mejorar la calidad del software, identificar y documentar bugs con claridad, y colaborar en equipos ágiles bajo Scrum.
 
-<h5 data-importer="text" align="left">- ⚡ Soy un profesional con experiencia previa en atención al cliente y soporte técnico en línea. Desarrollé habilidades clave: empatía, resolución de problemas, multitareas. En mi trayectoria profesional, me empezó a fascinar la tecnología y decidí actuar para convertirme en QA Engineer.</h5>
+---
 
-###
+Cuento con experiencia en:
 
-<h3 data-importer="text" align="left">🛠 Habilidades  y Herramientas</h3>
+- 🧪 **Diseño y ejecución de casos de prueba** funcionales y de regresión.
+- 🐞 **Reporte y seguimiento de defectos** en JIRA con pasos de reproducción y evidencia.
+- ✅ **Listas de comprobación** para validar flujos completos de una aplicación.
+- 🔄 **Pruebas de APIs REST usando Postman**, validando métodos HTTP (GET, POST, PUT, DELETE).
+- 🌐 **Pruebas cross-browser** basadas en requisitos funcionales y diseños de Figma.
+- 🤖 **Automatización en desarrollo** con Selenium, Pytest y Python (patrón POM).
 
-###
-<div align="left">
+---
 
-<br>**Metodologías**:  análisis y documentación de pruebas<br>
-<br>**API Testing**: Postman.<br>
-<br>**Herramientas**: JIRA<br>
+## 🛠️ Tech Stack
 
+### 🧪 QA & Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+</p>
+
+### 📋 Gestión & Documentación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🗃️ Bases de Datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+## 🚕 Urban.Routes – Pruebas funcionales de reserva y cancelación
+
+Diseñé y ejecuté listas de comprobación para validar los flujos de reserva y cancelación de vehículos en Urban Routes, basándome en requisitos funcionales y diseños de Figma. Realicé pruebas cross-browser y diseñé casos de prueba para validar botones, listas y funcionalidades clave de la aplicación.
+
+**Resultados destacados:**
+- ✔️ Diseñé listas de comprobación para validar flujos de reserva y cancelación de vehículos.
+- 🧪 Diseñé y ejecuté casos de prueba para botones, listas y funcionalidades de la app.
+- 🐞 Documenté defectos en JIRA con pasos de reproducción y evidencia detallada.
+- 🎯 **Logro:** identifiqué errores críticos que impedían la reserva y cancelación de vehículos, entregando información reproducible que facilitó su corrección.
+
+**Aptitudes:**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Enlace:** _[agrega aquí el enlace a tu documentación o repositorio]_
+
+**Capturas del proyecto:**
+
+<!-- Agrega tus propias capturas aquí, por ejemplo: -->
+<!--
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_routes_1.png" target="_blank">
+    <img src="assets/img/urban_routes_1.png" alt="Urban Routes test" width="500"/>
+  </a>
 </div>
+-->
 
-###
+---
 
+## 🛒 Urban.Grocers – Pruebas de API
 
-## 🚀 **Proyectos**
+Diseñé y ejecuté casos de prueba de API para validar endpoints de Urban Grocers, utilizando métodos HTTP (GET, POST, PUT, DELETE) para verificar respuestas correctas e incorrectas. Validé parámetros, códigos de respuesta y payloads de las solicitudes con Postman y JSON.
 
+**Resultados destacados:**
+- 🔗 Probé endpoints usando métodos HTTP (GET, POST, PUT, DELETE) con **Postman**.
+- 🧪 Validé parámetros, códigos de respuesta y payloads de las solicitudes.
+- 🐞 Detecté comportamientos inesperados en la API mediante escenarios positivos y negativos.
+- 🎯 **Logro:** fortalecí la cobertura de pruebas del proyecto, mejorando la validación del comportamiento de la API.
 
-###
-<div align="left">
-  
- <br>**Proyecto** Urban Grocers <br>
- <br> **Problema**: Nuevas Actualizaciones <br>
- <br>**Qué hice**: En base a los nuevos requisitos de la actualización , organicé y creé casos de prueba para cada una de las endpoints solicitadas. Asegurandome que cada una de ellas Funcione de manera correcta Asegurandome que la API  este en correcto funcionamiento En todo momento.  Reportando en JIRA cualquier bug o error de la API.<br>
+**Aptitudes:**
 
-</div>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-1E90FF?style=for-the-badge)
 
+**Enlace:** _[agrega aquí el enlace a tu documentación o repositorio]_
 
-<p data-importer="text" align="left">Ejecuté 30 casos de prueba asegurando estabilidad del sistema.<br>Reporté  errores críticos, optimizando la experiencia del usuario.</p>
+**Capturas del proyecto:**
 
-###
+<!-- Agrega tus propias capturas aquí -->
 
-<p data-importer="text" align="left">Resultado y Aprendizaje: En este proyecto, el resultado fue exitoso, ya que la nueva actualización no contó con muchos errores y todas las pruebas descartaron un mayor problema futuro . Asimismo, desarrollé un mejor uso de mis herramientas como JIRA y POSTMAN, utilizando de manera correcta el POST para cada una de las pruebas y creando un ambiente más sencillo de trabajar.</p>
+---
 
-###
+## 📄 CV Profesional
 
-## 📋 Proyecto  - API Testing
+<p align="center">
+  <a href="docs/Sergio_Arturo_Marin_CV_QA_CSF.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="proyecto 1.jpg" alt="Banner Proyecto 1" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-</div>
+> 💡 Sube tu CV en PDF a una carpeta `docs/` dentro de tu repositorio para que este botón funcione.
 
-###
+---
 
-<div align="left">
+## 📬 ¿Hablemos?
 
-🔗 Enlaces 
-📊 **Ver la documentación en** [Google Drive](https://docs.google.com/spreadsheets/d/1CvUATNrkytyXmjTC4TvTuwHouY0fF76p/edit?usp=sharing&ouid=100409337819042230115&rtpof=true&sd=true)
+Gracias por tomarte el tiempo de visitar mi portafolio.  
+Estoy en búsqueda activa de oportunidades como **QA Manual**, **QA Tester** o roles donde pueda seguir desarrollando mis habilidades hacia **QA Automation**, aportando atención al detalle, pensamiento analítico y compromiso con la calidad del software.
 
-</div>
-
-###
-
-<div align="left">
-
-**Proyecto**: Urban Routes
-<br>**Problema**: Diseños y Requisitos para compartir automóvil Validaciones<br>
-<br>**Qué hice**: Con base a los requisitos me aseguré que diferentes navegadores y sistemas puedan solicitar compartir un auto ,  en FIGMA verifiqué todo el flujo para compartir un automóvil creando casos prueba para cada botón y lista de comprobaciones utilizando JIRA para reportar errores y bugs<br>
-
-</div>
-
-###
-
-<div align="center">
-  <img src="proyecto 2.jpg" alt="Banner Proyecto 2" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-</div>
-
-
-<div align="left">
-
-🔗 Enlaces 
-📊 **Ver la documentación en** [Google Drive](https://docs.google.com/spreadsheets/d/1OV774BlHBmGn-qKZA-3qhrF4p_lEHJjl/edit?usp=sharing&ouid=100409337819042230115&rtpof=true&sd=true)
-
-</div>
-
-
-###
-
-<p data-importer="text" align="left">Resultado y Aprendizaje:El resultado fue que en otros sistemas no se podía generar la cancelación y reservar el automóvil utilizando la lista de comprobación. En los casos de prueba que publiqué en JIRA, todos los errores que se deben priorizar, debido a que el cliente no podría reservar, lo que impacta a la empresa de manera negativa.</p>
-
-###
+<p align="center"><strong>✨ ¡Conversemos! Estoy listo para sumarme a tu equipo.</strong></p>
