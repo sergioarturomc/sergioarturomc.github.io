@@ -146,7 +146,7 @@ Diseñé y ejecuté casos de prueba de API para validar endpoints de Urban Groce
   </a>
 </p>
 
-> 💡 Sube tu CV en PDF a una carpeta `docs/` dentro de tu repositorio para que este botón funcione.
+
 
 ---
 
