@@ -98,18 +98,15 @@ Diseñé y ejecuté listas de comprobación para validar los flujos de reserva y
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Enlace:** _[agrega aquí el enlace a tu documentación o repositorio]_
+**Enlace:** [Ver documentación en Google Drive](https://docs.google.com/document/d/1MAbIKexqmgncAB6YVvjbj1qs8LuAh-df/edit?rtpof=true&sd=true&tab=t.0)
 
 **Capturas del proyecto:**
 
-<!-- Agrega tus propias capturas aquí, por ejemplo: -->
-<!--
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes_1.png" target="_blank">
-    <img src="assets/img/urban_routes_1.png" alt="Urban Routes test" width="500"/>
+  <a href="assets/img/proyecto 2.jpg" target="_blank">
+    <img src="assets/img/proyecto 2.jpg" alt="Urban Routes test" width="500"/>
   </a>
 </div>
--->
 
 ---
 
@@ -130,11 +127,18 @@ Diseñé y ejecuté casos de prueba de API para validar endpoints de Urban Groce
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-1E90FF?style=for-the-badge)
 
-**Enlace:** _[agrega aquí el enlace a tu documentación o repositorio]_
+**Enlace:** [Ver documentación en Google Drive](https://docs.google.com/spreadsheets/d/1CvUATNrkytyXmjTC4TvTuwHouY0fF76p/edit?gid=1150969190#gid=1150969190)
 
 **Capturas del proyecto:**
 
-<!-- Agrega tus propias capturas aquí -->
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/proyecto 1.jpg" target="_blank">
+    <img src="assets/img/proyecto 1.jpg" alt="Urban Grocers test" width="500"/>
+  </a>
+  <a href="assets/img/proyecto 1.png" target="_blank">
+    <img src="assets/img/proyecto 1.png" alt="Urban Grocers test 2" width="500"/>
+  </a>
+</div>
 
 ---
 
@@ -145,8 +149,6 @@ Diseñé y ejecuté casos de prueba de API para validar endpoints de Urban Groce
     <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
   </a>
 </p>
-
-
 
 ---
 
