@@ -149,14 +149,6 @@ Diseñé y ejecuté casos de prueba de API para validar endpoints de Urban Groce
 
 ---
 
-## 📄 CV Profesional
-
-<p align="center">
-  <a href="docs/Sergio_Arturo_Marin_CV_QA_CSF.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 📬 ¿Hablemos?
